@@ -5,8 +5,8 @@
 - `pm25.csv` : 학습에 사용된 실제 미세먼지 및 기상 데이터
 
 ## 🚀 빠른 실행 방법
-1. [Google Colab에서 바로 열기](https://colab.research.google.com/github/math-teach/pm25-deeplearning-education/blob/main/pm25_prediction.ipynb)  
-   (링크는 아래에 수정해서 넣어드릴게요)
+1. [Google Colab에서 바로 열기](https://colab.research.google.com/github/math-teach/ai-math-pm25-prediction/blob/main/pm25_prediction.ipynb)
+   (클릭 한 번으로 바로 실행 가능)
 2. `pm25.csv` 파일을 Colab에 업로드
 3. 셀을 순서대로 실행
 
